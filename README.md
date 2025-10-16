@@ -67,4 +67,3 @@
 
 <h2>Nós da ©Company 404 agradecemos sua atenção!👋</h2>
 
-![Company 404](./images/error_64x64.png)
